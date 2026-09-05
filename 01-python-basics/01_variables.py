@@ -9,4 +9,4 @@ print(experience)
 print(learning_ai)
 
 
-print(f"My name is {name} and am a {role} with {experience} of experience. Currently, I am learing ai agents {learning_ai}")
+print(f"My name is {name} and I am a {role} with {experience} years of experience. Currently, I am learing ai agents {learning_ai}")
