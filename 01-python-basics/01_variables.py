@@ -1,3 +1,7 @@
+#A variable is simply a name that stores a value.
+#Python has different types of values.
+#Python gives us a very useful feature called an f-string.
+
 name = "Meena"
 role = "Senior RPA developer"
 experience = 7
